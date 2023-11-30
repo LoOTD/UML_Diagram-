@@ -1,0 +1,2 @@
+Среда программирования для языка UML: visual studio code / drawio
+Для разработки Mind Diagram: https://app.diagrams.net/
